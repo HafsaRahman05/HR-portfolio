@@ -88,10 +88,10 @@ Portfolio-Website/
 ## 🌍 Live Demo
 
 ```
-https://your-live-link-here.com
+[https://your-live-link-here.com](https://hr-portfolio-olive.vercel.app/)
 ```
 
-(Deploy via Vercel / Netlify)
+(Deploy via Vercel)
 
 ---
 

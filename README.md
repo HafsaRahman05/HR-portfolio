@@ -83,15 +83,7 @@ Portfolio-Website/
 
 ---
 
-## 📸 Preview
 
-> Add screenshot here later  
-Example:
-```
-![Portfolio Screenshot](images/preview.png)
-```
-
----
 
 ## 🌍 Live Demo
 
